@@ -163,7 +163,7 @@ exit
 ### Clone Repository
 
 ```bash
-git clone https://github.com/0xraincandy/lsh.git
+git clone https://github.com/syuvi211/lsh.git
 cd lsh
 ```
 
